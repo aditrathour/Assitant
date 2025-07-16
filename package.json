@@ -1,3 +1,9 @@
+"scripts": {
+  "build": "vite build",
+  "start": "serve -s dist" // Assuming your build output is in 'dist'
+},
+
+
 {
   "name": "",
   "private": true,
